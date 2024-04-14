@@ -1,0 +1,9 @@
+# Exclude workspace cache
+.obsidian/workspace*
+
+# Exclude plugins and themes
+.obsidian/plugins/*
+.obsidian/themes/*
+
+# Exclude Untitled Notes
+Untitled*
