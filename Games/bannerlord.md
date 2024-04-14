@@ -19,9 +19,3 @@
 
 1. [Diplomacy](https://steamcommunity.com/sharedfiles/filedetails/?id=2881380744) - Adds additional options for diplomacy.
 2. [Distinguished Service](https://steamcommunity.com/sharedfiles/filedetails/?id=3055496231) - Promote your best soldiers into companions.
-3. [Serve as Soldier](https://www.nexusmods.com/mountandblade2bannerlord/mods/3242) - Serve as a soldier in a lord's army.
-	1. [Serve as Soldier Fix](https://www.nexusmods.com/mountandblade2bannerlord/mods/5453) - Bug fixes for the above mod.
-
-## Other
-
-1. [Immersive Battlefield](https://www.nexusmods.com/mountandblade2bannerlord/mods/4633) - Adds affects to the battlefield to make it feel more alive.
