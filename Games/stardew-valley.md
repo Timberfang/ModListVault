@@ -24,7 +24,7 @@
 5. [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150) - Provides helpful information about things around you.
 6. [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109) - Opens and closes gates automatically.
 7. [Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019) - Automate the animal door opening/closing process for all your barns and coop.
-8. [No Fence Decay Redux](https://www.nexusmods.com/stardewvalley/mods/20802?tab=description) - Removes decay from fences, making them last forever.
+8. [No Fence Decay Redux](https://www.nexusmods.com/stardewvalley/mods/20802) - Removes decay from fences, making them last forever.
 9. [Yet Another Harvest with Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731) - Allows you to harvest all crops (including seasonal crops) and forage using the scythe.
 10. [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859) - Prevents failing milking/shearing attempts and adds an indicator when pets and animals can be petted, milked, or sheared.
 11. [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963) - Adds an elevator to the Skull Cavern.
