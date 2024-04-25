@@ -25,6 +25,7 @@
 6. [Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019) - Automate the animal door opening/closing process for all your barns and coop.
 7. [No Fence Decay Redux](https://www.nexusmods.com/stardewvalley/mods/20802) - Removes decay from fences, making them last forever.
 8. [Yet Another Harvest with Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731) - Allows you to harvest all crops (including seasonal crops) and forage using the scythe.
+	1. [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) - Requirement for above.
 9. [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859) - Prevents failing milking/shearing attempts and adds an indicator when pets and animals can be petted, milked, or sheared.
 10. [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963) - Adds an elevator to the Skull Cavern.
 
@@ -33,5 +34,4 @@
 1. [Automate](https://www.nexusmods.com/stardewvalley/mods/1063) - Place a chest next to a machine to automate it.
 2. [Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923) - Gain friendship points in new ways.
 3. [Canon-Friendly Dialogue](https://www.nexusmods.com/stardewvalley/mods/2544) - Adds about 2600 new lines of dialogue across all 34 characters who have a heart level.
-4. [Happy Birthday](https://www.nexusmods.com/stardewvalley/mods/520) - Have a birthday for your farmer.
-5. [Bigger Backpack](https://www.nexusmods.com/stardewvalley/mods/1845) - Buy a bigger backpack at Pierre's for only 50,000g!
+4. [Bigger Backpack](https://www.nexusmods.com/stardewvalley/mods/1845) - Buy a bigger backpack at Pierre's for only 50,000g!
