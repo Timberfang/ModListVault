@@ -19,15 +19,14 @@
 
 1. [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) - Skip the intro logos, and optionally skip straight to the load or co-op screen.
 2. [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089) - Speed up many animations in the game (like breaking geodes or eating).
-3. [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) - See NPCs and players on the map, with an optional minimap.
-4. [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541) - See live info about whatever's under your cursor when you press F1.
-5. [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150) - Provides helpful information about things around you.
-6. [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109) - Opens and closes gates automatically.
-7. [Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019) - Automate the animal door opening/closing process for all your barns and coop.
-8. [No Fence Decay Redux](https://www.nexusmods.com/stardewvalley/mods/20802) - Removes decay from fences, making them last forever.
-9. [Yet Another Harvest with Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731) - Allows you to harvest all crops (including seasonal crops) and forage using the scythe.
-10. [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859) - Prevents failing milking/shearing attempts and adds an indicator when pets and animals can be petted, milked, or sheared.
-11. [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963) - Adds an elevator to the Skull Cavern.
+3. [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541) - See live info about whatever's under your cursor when you press F1.
+4. [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150) - Provides helpful information about things around you.
+5. [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109) - Opens and closes gates automatically.
+6. [Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019) - Automate the animal door opening/closing process for all your barns and coop.
+7. [No Fence Decay Redux](https://www.nexusmods.com/stardewvalley/mods/20802) - Removes decay from fences, making them last forever.
+8. [Yet Another Harvest with Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731) - Allows you to harvest all crops (including seasonal crops) and forage using the scythe.
+9. [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859) - Prevents failing milking/shearing attempts and adds an indicator when pets and animals can be petted, milked, or sheared.
+10. [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963) - Adds an elevator to the Skull Cavern.
 
 ## Gameplay
 
