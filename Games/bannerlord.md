@@ -16,7 +16,6 @@
 	4. Launch the game. In the launcher, go to the "mods" tab at the top, under the word "Singleplayer". Click the box on the left side of the mod's name to enable it - a full square is enabled, a hollow square is disabled.
 	5. If the mod load order needs to be changed, you can drag and drop mods in this list to adjust the load order. Mods higher in the list are loaded earlier, so mods that require other mods need their dependencies to be higher in the list.
 
-
 ## Mod List
 ### Core
 
@@ -36,4 +35,11 @@
 ### Gameplay
 
 1. [Diplomacy](https://steamcommunity.com/sharedfiles/filedetails/?id=2881380744) - Adds additional options for diplomacy.
-2. [Distinguished Service](https://steamcommunity.com/sharedfiles/filedetails/?id=3055496231) - Promote your best soldiers into companions.
+2. [Improved Garrisons](https://steamcommunity.com/sharedfiles/filedetails/?id=2859265386): Improves the management of your castles and settlements.
+3. [Distinguished Service](https://steamcommunity.com/sharedfiles/filedetails/?id=3055496231) - Promote your best soldiers into companions.
+4. [Fourberie](https://steamcommunity.com/sharedfiles/filedetails/?id=2875710877) - Add more actions for roguery.
+5. [Serve As Soldier](https://www.nexusmods.com/mountandblade2bannerlord/mods/3242) - As the name suggests, serve as a soldier in a lord's army.
+
+## Other
+
+1. [Immersive Battlefields](https://www.nexusmods.com/mountandblade2bannerlord/mods/4633): Adds new sound effects to the battlefield.
