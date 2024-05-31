@@ -19,25 +19,25 @@
 ## Mod List
 ### Core
 
-1. [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2859188632) - Core dependency.
-2. [UIExtenderEx](https://steamcommunity.com/sharedfiles/filedetails/?id=2859222409) - Core dependency.
-3. [ButterLib](https://steamcommunity.com/sharedfiles/filedetails/?id=2859232415) - Core dependency.
-4. [Mod Configuration Menu v5](https://steamcommunity.com/sharedfiles/filedetails/?id=2859238197) - Core dependency.
+1. [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006) - Core dependency.
+2. [UIExtenderEx](https://www.nexusmods.com/mountandblade2bannerlord/mods/2102) - Core dependency.
+3. [ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018) - Core dependency.
+4. [Mod Configuration Menu v5](https://www.nexusmods.com/mountandblade2bannerlord/mods/612) - Core dependency.
 
 ### Quality of Life
 
 1. [Enable Achievement](https://steamcommunity.com/sharedfiles/filedetails/?id=2880190747) - Enable achievements with mods.
 2. [Quick Nearby Tournaments](https://steamcommunity.com/sharedfiles/filedetails/?id=2910268800) - View nearby tournaments from the city screen.
-3. [Adjustable Levelling](https://steamcommunity.com/sharedfiles/filedetails/?id=2896410558) - Adjust XP gain for skills and your character as a whole.
-4. [Relentless Smith](https://steamcommunity.com/sharedfiles/filedetails/?id=2882064139) - Removes stamina usage for forging.
+3. [Adjustable Levelling](https://www.nexusmods.com/mountandblade2bannerlord/mods/6519) - Adjust XP gain for skills and your character as a whole.
+4. [Smith Forever and Smith Value Up](https://www.nexusmods.com/mountandblade2bannerlord/mods/4992) - Removes stamina usage for forging and lets you view the value of your item before you smith it.
 5. [Sell All but Stop at Zero](https://steamcommunity.com/sharedfiles/filedetails/?id=2907309923) - When you sell all items to a merchant, stop when their gold is zero.
 
 ### Gameplay
 
-1. [Diplomacy](https://steamcommunity.com/sharedfiles/filedetails/?id=2881380744) - Adds additional options for diplomacy.
-2. [Improved Garrisons](https://steamcommunity.com/sharedfiles/filedetails/?id=2859265386): Improves the management of your castles and settlements.
-3. [Distinguished Service](https://steamcommunity.com/sharedfiles/filedetails/?id=3055496231) - Promote your best soldiers into companions.
-4. [Fourberie](https://steamcommunity.com/sharedfiles/filedetails/?id=2875710877) - Add more actions for roguery.
+1. [Diplomacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/832) - Adds additional options for diplomacy.
+2. [Improved Garrisons](https://www.nexusmods.com/mountandblade2bannerlord/mods/688): Improves the management of your castles and settlements.
+3. [Distinguished Service](https://www.nexusmods.com/mountandblade2bannerlord/mods/6007) - Promote your best soldiers into companions.
+4. [Fourberie](https://www.nexusmods.com/mountandblade2bannerlord/mods/2969) - Add more actions for roguery.
 5. [Serve As Soldier](https://www.nexusmods.com/mountandblade2bannerlord/mods/3242) - As the name suggests, serve as a soldier in a lord's army.
 
 ## Other
