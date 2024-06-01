@@ -38,7 +38,6 @@
 2. [Improved Garrisons](https://www.nexusmods.com/mountandblade2bannerlord/mods/688): Improves the management of your castles and settlements.
 3. [Distinguished Service](https://www.nexusmods.com/mountandblade2bannerlord/mods/6007) - Promote your best soldiers into companions.
 4. [Fourberie](https://www.nexusmods.com/mountandblade2bannerlord/mods/2969) - Add more actions for roguery.
-5. [Serve As Soldier](https://www.nexusmods.com/mountandblade2bannerlord/mods/3242) - As the name suggests, serve as a soldier in a lord's army.
 6. [Tournaments Xpanded](https://www.nexusmods.com/mountandblade2bannerlord/mods/27) - Adds various enhancements to tournaments.
 
 ## Other
