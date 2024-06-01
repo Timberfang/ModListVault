@@ -27,10 +27,10 @@
 ### Quality of Life
 
 1. [Achievement Un(bloc)ker](https://www.nexusmods.com/mountandblade2bannerlord/mods/4587) - Enable achievements with mods.
-2. [Quick Nearby Tournaments](https://steamcommunity.com/sharedfiles/filedetails/?id=2910268800) - View nearby tournaments from the city screen.
+2. [Quick Nearby Tournaments](https://steamcommunity.com/sharedfiles/filedetails/?id=2910268800) - View nearby tournaments from the city screen. **Workshop Mod, Steam Versions Only**
 3. [Adjustable Levelling](https://www.nexusmods.com/mountandblade2bannerlord/mods/6519) - Adjust XP gain for skills and your character as a whole.
 4. [Smith Forever and Smith Value Up](https://www.nexusmods.com/mountandblade2bannerlord/mods/4992) - Removes stamina usage for forging and lets you view the value of your item before you smith it.
-5. [Sell All but Stop at Zero](https://steamcommunity.com/sharedfiles/filedetails/?id=2907309923) - When you sell all items to a merchant, stop when their gold is zero.
+5. [Sell All but Stop at Zero](https://steamcommunity.com/sharedfiles/filedetails/?id=2907309923) - When you sell all items to a merchant, stop when their gold is zero. **Workshop Mod, Steam Versions Only**
 
 ### Gameplay
 
