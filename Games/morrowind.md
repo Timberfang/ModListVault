@@ -21,12 +21,12 @@ Special thanks to the following mod lists and their authors - these lists have i
 
 ### Core
 
-- [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510/)
-- [MGE XE](https://www.nexusmods.com/morrowind/mods/41102) 
-	- [Pixel Shader Style Water for MGE XE](https://www.nexusmods.com/morrowind/mods/50044)
-	- [Wonders of Water](https://www.nexusmods.com/morrowind/mods/52815)
-- [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
-- [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
+- [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510/) - Patches the `Morrowind.exe` executable to fix several bugs in the game's code.
+- [MGE XE](https://www.nexusmods.com/morrowind/mods/41102) - Fixes and modernizes the games graphics, and adds the Morrowind Script Extender (MWSE), a core dependency for other mods.
+	- [Pixel Shader Style Water for MGE XE](https://www.nexusmods.com/morrowind/mods/50044) - A modernized version of the water shader from vanilla Morrowind.
+	- [Wonders of Water](https://www.nexusmods.com/morrowind/mods/52815) - Improve how water reacts with the world.
+- [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) - A large bug fixing mod for the game, fixing over 9,000 bugs from the vanilla game.
+- [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107) - Reimplements and improves on Bethesda's official plugins.
 
 ### Bug Fixes
 
