@@ -27,6 +27,8 @@ Special thanks to the following mod lists and their authors - these lists have i
 	- [Wonders of Water](https://www.nexusmods.com/morrowind/mods/52815) - Improve how water reacts with the world.
 - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) - A large bug fixing mod for the game, fixing over 9,000 bugs from the vanilla game.
 - [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107) - Reimplements and improves on Bethesda's official plugins.
+- [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537) - Provides vanilla-style assets for many other mods.
+- [OOAB_Data](https://www.nexusmods.com/morrowind/mods/49042) - Similar to Tamriel_Data, provides vanilla-style assets for other mods.
 
 ### Bug Fixes
 
